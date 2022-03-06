@@ -1,0 +1,8 @@
+.y.,group1,group2,n1,n2,statistic,df,p,p.adj,p.adj.signif,
+Fearful_Ratings,ans12d,X13d,109,109,2.972642142,108,0.004,0.022,*,
+Fearful_Ratings,ans12d,X14d,109,109,6.340585262,108,5.45E-09,3.27E-08,****,
+Fearful_Ratings,ans12d,X15d,109,109,4.097745653,108,8.09E-05,4.85E-04,***,
+Fearful_Ratings,X13d,X14d,109,109,4.460029661,108,2.02E-05,1.21E-04,***,
+Fearful_Ratings,X13d,X15d,109,109,1.765202382,108,0.08,0.482,ns,
+Fearful_Ratings,X14d,X15d,109,109,-1.216224442,108,0.227,1,ns,
+,,,,,,,,,,

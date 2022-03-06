@@ -1,0 +1,7 @@
+.y.,group1,group2,n1,n2,statistic,df,p,p.adj,p.adj.signif
+Angry_Ratings,X12c,X13c,109,109,3.160511876,108,0.002,0.012,*
+Angry_Ratings,X12c,X14c,109,109,4.445403764,108,2.13E-05,1.28E-04,***
+Angry_Ratings,X12c,X15c,109,109,1.035132287,108,0.303,1,ns
+Angry_Ratings,X13c,X14c,109,109,0.664958576,108,0.507,1,ns
+Angry_Ratings,X13c,X15c,109,109,-1.595427087,108,0.114,0.684,ns
+Angry_Ratings,X14c,X15c,109,109,-2.444402531,108,0.016,0.097,ns

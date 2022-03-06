@@ -1,0 +1,61 @@
+,SET,Code,Unnamed: 0,id,artist,album,name,length,danceability,acousticness,energy,instrumentalness,liveness,valence,loudness,speechiness,tempo,key,time_signature,mood,Score,sad_score,happy_score,angry_score,fear_score
+0,A,UHIS8,96,73y649QhnXdcm6fRdvfraO,Ajay-Atul,Agneepath (Original Motion Picture Soundtrack),Abhi Mujh Mein Kahin,364786,0.334,0.755,0.387,3.94E-05,0.113,0.42,-9.483,0.0332,129.959,2,1,Sad,-1,0,-0.5,-1,0
+1,B,UHIS11,153,1StFDfq4raRws97W8Wb3QS,Darshan Raval,Asal Mein - Single,Asal Mein,224240,0.656,0.721,0.551,1.26E-06,0.0947,0.33,-6.43,0.0299,114.108,8,4,Sad,,-0.666666667,-0.333333333,-1.666666667,-0.333333333
+2,C,UHIS3,248,6gwnKOvdBKkTU4CQ7KpIAu,Shaarib Toshi,"Bandeya (feat. Arijit Singh) [From ""Dil Juunglee""]","Bandeya (feat. Arijit Singh) - From ""Dil Juunglee""",184666,0.465,0.619,0.551,6.03E-06,0.109,0.415,-6.58,0.0362,89.459,7,4,Sad,,0,0.333333333,0,0
+3,D,UHIS20,412,5MnAi6ZF7cE8pAz7wYr9Ta,Vishal-Shekhar,Tiger Zinda Hai,Dil Diyan Gallan,260536,0.716,0.565,0.64,0.00139,0.127,0.485,-8.726,0.025,105.012,2,4,Sad,,0.5,-0.5,0,0
+4,E,UHIS1,33,30yySOIXHZYx94sLAySy2j,A.R. Rahman,Dil Se (Original Motion Picture Soundtrack),Dil Se Re,405706,0.844,0.00882,0.442,0.000498,0.0879,0.436,-16.54,0.0691,105.986,9,4,Sad,,0.5,-0.5,0.5,1
+5,F,UHIS6,277,0p83RJy9EZ0hlg82xcXH7f,Sachet Tandon,"Dilbara (From ""Pati Patni Aur Woh"")","Dilbara (From ""Pati Patni Aur Woh"")",247682,0.304,0.254,0.686,0,0.106,0.236,-4.869,0.0497,89.991,0,4,Sad,,2,-1,0,0
+6,G,UHIS17,89,5doYtCoJ8KpfkFczP3F2ad,Pritam,Love Aaj Kal (Original Motion Picture Soundtrack),Dooriyan,337360,0.52,0.612,0.716,0,0.11,0.593,-6.582,0.051,122.977,7,4,Sad,,0.666666667,0.333333333,0,0.666666667
+7,H,UHIS16,252,77H2kEmaw3uiLgPozzIsqv,Amit Trivedi,Gunjan Saxena: The Kargil Girl,Dori Tutt Gaiyaan,231211,0.397,0.925,0.427,0.0117,0.108,0.288,-9.144,0.0497,75.679,10,4,Sad,,-0.5,-0.5,0,0
+8,I,UHIS4,157,0MeoxIZvXjyEgeGTMyZc9T,Arijit Singh,Arijit Singh Broken Strings,"Duaa (From ""Shanghai"")",260138,0.554,0.536,0.578,5.53E-05,0.11,0.55,-7.718,0.0379,137.921,5,4,Sad,,-0.5,0.5,-1,-0.5
+9,J,UHIS18,173,7aE1lfskJLMHQnzCCP1zsV,Akhil Sachdeva,Best Of Akhil Sachdeva,"Humsafar (From ""Badrinath Ki Dulhania"")",268463,0.319,0.719,0.552,0,0.144,0.221,-6.401,0.0307,93.991,7,4,Sad,,-1.5,1.5,0,0
+10,K,UHIS13,170,6f3ANRNQ8nCiPZ6VqXqq93,Armaan Malik,Main Rahoon Ya Na Rahoon,Main Rahoon Ya Na Rahoon,309457,0.55,0.718,0.488,0.000118,0.126,0.301,-8.059,0.0284,136.025,6,3,Sad,,1.5,-1,0,0
+11,L,UHIS15,159,5G7pZ8G8NFvS1MQ9H4L7dC,Javed-Mohsin,Pal,Pal,247286,0.51,0.71,0.502,0,0.0708,0.321,-7.016,0.0325,133.885,7,4,Sad,,0,0,0,0
+12,M,UHIS9,191,7uNnlVit5qDvfOje0pqICF,A.R. Rahman,Rockstar,Tum Ho,316500,0.356,0.518,0.47,1.00E-05,0.0807,0.167,-8.929,0.0278,93.895,5,4,Sad,,1,0,0,0
+13,N,UHIS10,172,6P0XrGFaGfNh0ObmhSTKW2,Various Artists,Kapoor & Sons (Since 1921) (Original Motion Picture Soundtrack),Saathi Rey,272000,0.551,0.361,0.387,0,0.109,0.255,-7.647,0.0375,81.222,6,4,Sad,,1.5,-1,-1,0
+14,O,UHIS7,251,2L2YNB3YIletW4fUtwphDv,Pritam,Love Aaj Kal (Original Motion Picture Soundtrack),Shayad - Reprise,245735,0.432,0.904,0.536,0.000626,0.102,0.324,-7.34,0.032,135.837,8,4,Sad,,0.5,-0.5,0,0
+15,P,UHIS14,273,6OOOn0RrwZlgk4r1BVT2Za,Samuel - Akanksha,Tum Se,Tum Se,255959,0.565,0.77,0.435,1.70E-06,0.107,0.212,-7.716,0.0292,119.995,1,3,Sad,,0.666666667,0,0,-0.333333333
+16,Q,UHIS19,128,0pw3p4gf5homOkvOGOJulF,Pritam,New York,Tune Jo Na Kaha,310073,0.314,0.779,0.475,0.00539,0.34,0.312,-12.38,0.0838,78.992,5,4,Sad,,0,0,0,0
+17,R,UHIS2,97,2S6N9pbnkhQRyAx80HmF79,Shraddha Kapoor,Best Of Shraddha Kapoor,"Banjaara (From ""Ek Villain"")",336567,0.657,0.713,0.489,0,0.124,0.399,-6.829,0.0306,116,1,4,Sad,,0.5,0,0,-1
+18,S,UHIS12,24,2sURneAotz0wUnak36GzQY,Pritam,Phata Poster Nikhla Hero (Original Motion Picture Soundtrack),Main Rang Sharbaton Ka,277565,0.383,0.764,0.57,0,0.082,0.713,-9.26,0.04,90.057,6,4,Sad,,0,0,0,0
+19,T,UHIS5,123,3hp6JfJIxkv3sl7E6p7DQj,Amit Trivedi,Fitoor,Yeh Fitoor Mera,283070,0.449,0.387,0.421,0.000108,0.11,0.203,-8.92,0.0272,163.747,4,3,Sad,,0,0,0,-1
+0,A,UHIH15,0,1gwO79MdYdumgIjxq8eCxB,Vishal-Shekhar,I Hate Luv Storys (Original Motion Picture Soundtrack),Bahara,325706,0.595,0.0716,0.739,0.00000698,0.134,0.722,-6.733,0.0359,87.834,5,4,Happy,-1,1.5,0,-0.5,
+1,B,UHIH13,1,3bZPdEskcnMdepwCaDSJRl,Vishal-Shekhar,I Hate Luv Storys (Original Motion Picture Soundtrack),Bin Tere,330360,0.585,0.42,0.698,0.00000359,0.363,0.621,-6.261,0.0392,139.831,9,4,Happy,-0.333333333,0.666666667,0.666666667,-0.333333333,
+2,C,UHIH10,46,5aN5zVgz1zAfE6LMxuJYaJ,Navraj Hans,"Gud Naal Ishq Mitha (From ""Ek Ladki Ko Dekha Toh Aisa Laga"") - Single","Gud Naal Ishq Mitha (From ""Ek Ladki Ko Dekha Toh Aisa Laga"")",219934,0.79,0.442,0.774,0.00000465,0.15,0.923,-7.243,0.0916,97.97,2,4,Happy,-0.333333333,1,0,0,
+3,D,UHIH6,334,6GYj4WwlYoSWCrFQoEAvaq,Sukriti Kakar,Hum Tum,Hum Tum,189130,0.759,0.614,0.774,0.00000133,0.375,0.835,-4.342,0.039,137.991,0,4,Happy,-1,2.5,0,0,
+4,E,UHIH14,301,6M2UnI1LnXuXlWU54CKmKx,Vishal-Shekhar,Dostana (Original Motion Picture Soundtrack),Jaane Kyun,277986,0.778,0.0573,0.812,0.00000828,0.243,0.791,-8.561,0.046,99.962,4,4,Happy,-2,2,-0.5,-1,
+5,F,UHIH18,407,6Sp7azay1NZU4wxlFacWCl,Vishal-Shekhar,I Hate Luv Storys (Original Motion Picture Soundtrack),Jab Mila Tu,251853,0.626,0.0482,0.561,0,0.304,0.794,-6.644,0.0304,167.916,9,4,Happy,-3,3,-0.5,-0.5,
+6,G,UHIH2,7,0gRNu9dVzi5aC87AI1empZ,Monty Sharma,Saawariya (Original Motion Picture Soundtrack),Jab Se Tere Naina,284573,0.599,0.362,0.653,0,0.144,0.678,-7.576,0.122,79.968,0,4,Happy,-0.666666667,0.333333333,0,-0.666666667,
+7,H,UHIH17,423,52hTNCMZSb80PePjObPGP2,Vishal-Shekhar,Befikre,Je T'aime,241068,0.654,0.591,0.668,0.0000457,0.105,0.763,-6.532,0.043,121.996,6,4,Happy,-0.5,0.5,0,-1,
+8,I,UHIH16,241,3jJ5HgLRNydtLRghjWVaCG,Pritam,Yeh Jawaani Hai Deewani,Kabira (Encore),270438,0.611,0.441,0.612,0,0.18,0.898,-7.978,0.114,171.841,2,4,Happy,-0.5,0,0,0.5,
+9,J,UHIH5,319,3TAhWtQnpoL5Vl9VQPl9fU,Shankar-Ehsaan-Loy,Zindagi Na Milegi Dobara,Senorita,229575,0.701,0.134,0.681,0,0.064,0.81,-6.442,0.0466,122.539,9,4,Happy,-0.5,1,0,0,
+10,K,UHIH4,59,3APdIdF8H0jsxSuGOqXedS,A.R. Rahman,Jaane Tu... Ya Jaane Na,Kabhi Kabhi Aditi,218836,0.791,0.276,0.558,0,0.0859,0.872,-7.155,0.0661,95.077,7,4,Happy,-1,2,0,0,
+11,L,UHIH20,53,4c8erEn1DjLoDp0CRLkNnq,Various Artists,Baar Baar Dekho (Original Motion Picture Soundtrack),Nachde Ne Saare,194761,0.82,0.655,0.907,0.0000485,0.0816,0.834,-4.517,0.0607,126.062,7,4,Happy,-1,1,0,0,
+12,M,UHIH8,2,6eTPyEkYUmDUFvNxJdNuOD,Various Artists,Vicky Donor,"Pani Da Rang Male (From ""Vicky Donor"")",240786,0.679,0.272,0.622,0.0000652,0.106,0.483,-8.514,0.0328,98.028,4,4,Happy,-1.5,1,0,0,
+13,N,UHIH7,22,3rsx3pDYM3a08O0Yu3Tq6V,Shankar-Ehsaan-Loy,Kal Ho Naa Ho (Original Motion Picture Soundtrack),Pretty Woman,353880,0.677,0.124,0.942,0.0132,0.0819,0.598,-6.105,0.16,173.991,11,4,Happy,-2.5,2,0,0,
+14,O,UHIH12,405,48pyUxg9RYuwie5M9R7qRn,Amaal Mallik,Roy,Sooraj Dooba Hain,264854,0.616,0.172,0.75,0,0.137,0.434,-4.629,0.0594,128.051,2,4,Happy,-1,0.5,0,0,
+15,P,UHIH11,48,0GQngE2rOYvlKwEQjTAsP8,Pritam,Yeh Jawaani Hai Deewani,Subhanallah,249707,0.302,0.455,0.493,0,0.134,0.457,-5.038,0.0451,88.904,9,4,Happy,-1.666666667,0,0,0,
+16,Q,UHIH1,314,2W94YEMyahGhIrsjx35dVQ,Pritam,Love Aaj Kal,"Twist (From ""Love Aaj Kal"")",299440,0.721,0.0393,0.944,0.0000586,0.0747,0.728,-4.995,0.142,109.014,7,4,Happy,0,0,1,0,
+17,R,UHIH3,400,0og9wKFGgFFNQnrBe7eisG,Shankar-Ehsaan-Loy,Karthik Calling Karthik,Uff Teri Adaa,304088,0.647,0.00536,0.792,0.0000582,0.054,0.306,-9.815,0.0373,132.032,2,4,Happy,-0.5,1,0,0,
+18,S,UHIH9,381,4fgJe7zBjVXvs8HxtE21Y9,Various Artists,Raees,Zaalima,299333,0.486,0.309,0.898,0,0.0886,0.648,-3.791,0.171,88.335,9,4,Happy,-0.333333333,0,0,0,
+19,T,UHIH19,65,3xF15SqY32Mno3UUMBirhU,Vishal-Shekhar,Hasee Toh Phasee (Original Motion Picture Soundtrack),Zehnaseeb,217440,0.623,0.361,0.595,0.000136,0.353,0.418,-6.342,0.0331,78.029,7,4,Happy,0,0,0,0,
+0,A,UHIE3,32,78LZUVqzZzsuNfT6G782pP,Krsna Solo,Tanu Weds Manu Returns (Original Motion Picture Soundtrack),"Banno (From ""Tannu Weds Manu Returns"")",196172,0.758,0.138,0.877,0.0000192,0.085,0.707,-5.047,0.0806,108.011,7,4,Energetic,0,0,0,0,
+1,B,UHIE11,8,3fPgIknlkDWXs1l2noKZbp,Badshah,The Badshah of Party Hits,Kar Gayi Chull,187710,0.827,0.0316,0.737,0.000322,0.211,0.873,-5.473,0.0764,121.99,11,4,Energetic,-1,0.666666667,0,0,
+2,C,UHIE5,202,2r32XiAWtZbT3eLUvf4pag,Ram Sampath,Talaash,Jee Le Zaraa,215202,0.584,0.447,0.698,0,0.0699,0.436,-6.61,0.0376,79.993,4,4,Energetic,1,-1,0,0,
+3,D,UHIE9,343,5DIt4eq2D6CZjX1s5jwrnP,Badshah,"Tere Naal Nachna (From ""Nawabzaade"")","Tere Naal Nachna (From ""Nawabzaade"")",166614,0.912,0.193,0.677,0,0.0939,0.94,-4.212,0.0713,115.061,0,4,Energetic,0,-2,0,0,
+4,E,UHIE10,349,6GwjeSBaJ7C8yZXklaXXY1,Various Artists,Yaariyan,Sunny Sunny,243319,0.794,0.00138,0.878,0.029,0.197,0.352,-7.502,0.078,129.978,11,4,Energetic,-0.5,-1,0.5,0,
+5,F,UHIE17,63,388WAWA88apG48Xjy8sEoj,Penn Masala,Panoramic,Bahara,223533,0.465,0.114,0.7,0.0000332,0.13,0.546,-6.768,0.0396,87.724,11,4,Energetic,2,-2,0,0.5,
+6,G,UHIE6,373,7wW9scVNLYFLsmBb1yAUmS,Yo Yo Honey Singh,Blue Eyes,Blue Eyes,220943,0.77,0.137,0.51,0.000106,0.0346,0.533,-5.469,0.192,188.067,10,4,Energetic,0.333333333,-2,1.333333333,0,
+7,H,UHIE8,25,102txb31XbUWOsccLOd7tp,Neha Kakkar,Best Of Neha Kakkar,"Cheez Badi (From ""Machine"")",222520,0.704,0.153,0.772,0.00123,0.147,0.778,-4.353,0.0436,97.008,1,4,Energetic,-0.5,0.5,-0.5,-0.5,
+8,I,UHIE13,73,06AzjEqvljiGphKVlV8Sbm,Mixed,Individual (Special Edition),Tamma Tamma Again,199418,0.728,0.0833,0.828,0.000203,0.104,0.722,-5.042,0.0557,122.993,2,4,Energetic,-1,2,0,-0.5,
+9,J,UHIE2,351,0t4OUMPCxSFbUqcyyrojn5,Sajid-Wajid,Rowdy Rathore (Original Motion Picture Soundtrack),Chinta Ta Ta Chita Chita,261346,0.765,0.249,0.899,0.00108,0.0588,0.797,-2.096,0.247,67.508,11,4,Energetic,0,-0.5,0,0,
+10,K,UHIE15,347,4H2wyTfSobQHsVnt2JYPMf,Various Artists,"Koka (From ""Khandaani Shafakhana"")","Koka (From ""Khandaani Shafakhana"")",176091,0.873,0.172,0.963,0.000176,0.0233,0.906,-1.376,0.104,94.004,7,4,Energetic,0,-1.5,0.5,0,
+11,L,UHIE4,303,67ZZqOrQH4Bshguxw9GPkh,Badshah,The Badshah of Party Hits,Let's Nacho,215075,0.742,0.0906,0.947,0.0221,0.0721,0.88,-3.749,0.0321,130.043,0,4,Energetic,0,-1,0,0,
+12,M,UHIE7,363,1lBYgFwMRvvwgEhdAZTWVu,Sneha Khanwalkar,Khoobsurat,Maa Ka Phone,247461,0.692,0.0279,0.811,0.0000127,0.274,0.898,-7.841,0.0573,146.011,1,4,Energetic,-0.5,-2,3,2.5,
+13,N,UHIE1,329,71s7tZo8OGlN3VXyURWLUr,Pritam,Desi Boyz,Make Some Noise For The Desi Boyz,244067,0.692,0.0188,0.954,0,0.151,0.89,-3.93,0.0915,141.98,2,4,Energetic,0,0,0,0,
+14,O,UHIE12,342,2XRLvCsXq2Vzxki0xKUQjl,Saemy,Papa Hai (Deluxe Edition),Papa Hai - Deluxe Edition,201528,0.905,0.168,0.433,0.00000116,0.32,0.536,-11.725,0.318,120.019,9,4,Energetic,0,-1.5,0.5,0,
+15,P,UHIE18,360,2AjGLmuZK1fu21n1IpB9RU,Vishal-Shekhar,Tiger Zinda Hai,Swag Se Swagat,235944,0.825,0.0212,0.559,0.000689,0.205,0.207,-7.907,0.0722,105.957,1,4,Energetic,0.333333333,0.333333333,0,0,
+16,Q,UHIE16,387,6qrb4ganbSTzcDDOo1pzMT,Amit Trivedi,Kedarnath,Sweetheart,212195,0.768,0.376,0.806,0.00000165,0.0787,0.925,-6.277,0.0517,123.039,8,4,Energetic,0,0,-1,0,
+17,R,UHIE20,3,2zZTXtLqCsICzEcztKjn47,Pritam,Cocktail,"Tum Hi Ho Bandhu (From ""Cocktail"")",282012,0.714,0.00145,0.892,0.000817,0.0462,0.899,-5.342,0.0516,134.997,11,4,Energetic,0,0.5,0,-0.5,
+18,S,UHIE14,339,42C9YmmOF7PkiHWpulxzcq,Tesher,Young Shahrukh,Young Shahrukh,159427,0.909,0.0323,0.449,0,0.087,0.685,-9.912,0.263,95.001,8,4,Energetic,0,0,0.333333333,0,
+19,T,UHIE19,52,5raWEZXYAapq6Qw1GIEIkU,Ajay-Atul,Dhadak,Zingaat,226501,0.834,0.359,0.788,0.27,0.396,0.705,-7.294,0.213,130.032,6,4,Energetic,0,-1,0,0,

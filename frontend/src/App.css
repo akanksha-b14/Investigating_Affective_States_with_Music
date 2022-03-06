@@ -1,0 +1,109 @@
+.App {
+  text-align:center ;
+}
+
+
+.App-header {
+  background-color: #393f4d;
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding: 1rem;
+  box-shadow: 2px 2px 5px #6e6c6c;
+  
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+body{
+  background-color: #e6dddd;
+color: rgb(0, 0, 0);
+justify-content: center;
+font: normal 400;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+-webkit-font-smoothing: antialiased;
+}
+
+.card {
+/*
+-webkit-animation: cardEnter 0.75s ease-in-out 0.5s;
+animation: cardEnter 0.75s ease-in-out 0.5s;
+-webkit-animation-fill-mode: both;
+        animation-fill-mode: both;
+*/
+max-width: 600px;
+text-align: left;
+font: normal 400;
+font-family: sans-serif;
+border-radius: 0.5em;
+padding: 10px;
+background-color: #fff;
+box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4);
+margin: 20px auto;
+opacity: 1;
+color: #000;
+  line-height: 49px;
+}
+
+/* Radio buttons */
+input[type="radio"] {
+font-size: 50px;
+
+}
+
+
+
+
+.feedback-button {
+display: inline-block;
+cursor: pointer;
+margin: 0 2% 0 0;
+padding: 12px 22px;
+border: none;
+font: normal normal bold 1.6em/normal "Syncopate", Helvetica, sans-serif;
+color: #f2f7f7;
+background: linear-gradient(180deg, #4d2dff 0, #7408d8 100%);
+background-clip: border-box;
+background-size: auto auto;
+box-shadow: 0 1px 0 0 rgb(245, 187, 172) ;
+}
+
+
+
+.feedback-button:active {
+top: 5px;
+background: -webkit-linear-gradient(-90deg, #ff8583 0, #ff5350 100%);
+background: -moz-linear-gradient(180deg, #ff8583 0, #ff5350 100%);
+background: linear-gradient(180deg, #ff8583 0, #ff5350 100%);
+background-position: 50% 50%;
+-webkit-background-origin: padding-box;
+background-origin: padding-box;
+-webkit-background-clip: border-box;
+background-clip: border-box;
+-webkit-background-size: auto auto;
+background-size: auto auto;
+-webkit-box-shadow: 0 5px 0 0 rgba(178,49,49,1) ;
+box-shadow: 0 5px 0 0 rgba(178,49,49,1) ;
+}
+
+.pEmail{
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 0.3em;
+}
+

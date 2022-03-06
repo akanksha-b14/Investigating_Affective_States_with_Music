@@ -1,0 +1,7 @@
+.y.,group1,group2,n1,n2,statistic,df,p,p.adj,p.adj.signif
+Happy_Ratings,X12a,X13a,109,109,2.184337142,108,0.031,0.187,ns
+Happy_Ratings,X12a,X14a,109,109,-5.482060718,108,2.78E-07,1.67E-06,****
+Happy_Ratings,X12a,X15a,109,109,-1.848333759,108,0.067,0.404,ns
+Happy_Ratings,X13a,X14a,109,109,-6.720661146,108,8.84E-10,5.30E-09,****
+Happy_Ratings,X13a,X15a,109,109,-3.629922552,108,4.35E-04,0.003,**
+Happy_Ratings,X14a,X15a,109,109,2.601403728,108,0.011,0.064,ns
